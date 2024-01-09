@@ -1,3 +1,3 @@
-# Spring Boot Course - Dan Vega
+# Spring Boot Course - Resources
 
 ### This repository shows all the projects and exercises made in the course.
